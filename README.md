@@ -133,11 +133,13 @@ cover.html
 ```
 
 ## Output:
-![Output](images/out.png)
+![Screenshot from 2023-01-30 13-37-26](https://user-images.githubusercontent.com/119479566/215428229-ce875dc8-2d7b-43ee-8994-f20406f07073.png)
+
 
 ## HTML VAIDATOR:
 
-![HTML VALIDATOR](images/valid.png)
+![Screenshot from 2023-01-30 13-39-27](https://user-images.githubusercontent.com/119479566/215428278-b3f01fc5-18cc-4df8-8246-86edcc6a9caf.png)
+
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully.
